@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ppin-graph-autoencoder"
+version = "0.1.0"
+description = ""
+authors = ["fruit-bird <github.ru3w9@slmail.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+torch = "^2.0.1"
+torch-geometric = "^2.3.1"
+networkx = "^3.1"
+pandas = "^2.1.0"
+numpy = "^1.25.2"
+matplotlib = "^3.8.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.25.2"
+black = "^23.9.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
