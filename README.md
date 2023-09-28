@@ -24,7 +24,7 @@
 ## Viable Data Sources
 - [STRING](https://string-db.org/)
 - [BioGRID](https://thebiogrid.org/)
-- [IntAct](https://www.ebi.ac.uk/intact/)
+- [IntAct](https://www.ebi.ac.uk/intact/) - promising
 - [HINT (Human Interactome)](http://hint.yulab.org/)
 - [HIPPIE (Human Integrated Protein-Protein Interaction rEference)](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/)
 - [Pathway Commons](http://www.pathwaycommons.org/)

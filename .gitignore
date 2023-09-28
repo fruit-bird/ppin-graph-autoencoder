@@ -1,2 +1,6 @@
+/datasets
 /src
 /tests
+/utils
+
+__pycache__/
